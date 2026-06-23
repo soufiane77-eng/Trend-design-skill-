@@ -17,13 +17,17 @@
 
 ## Trending Tags (June 2026)
 
-Add these topics on your GitHub repo to get discovered:
 
-design-system, ui-design, premium-ui, moroccan-design, css-animations, tailwind-css, ai-skill, brand-design, claude-code, html-css-javascript
+design-system,
+ui-design, 
+premium-ui,
+css-animations,
+tailwind-css, 
+ai-skill, 
+brand-design, 
+claude-code, 
+html-css-javascript
 
-👉 Go to repo Settings > Topics and paste them.
-
----
 
 ## How to Use This Skill
 
