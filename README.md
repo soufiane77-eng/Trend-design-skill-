@@ -1,10 +1,10 @@
-# Moroccan Premium Brand Design 🏺
+# Trend design skill  🏺
 
-> A premium design system and AI skill for creating ultra-luxury Moroccan, North African, and Middle Eastern brand experiences.
+> A premium design system and AI skill for creating ultra-luxury website design .
 
 ## Overview
 
-This repository contains a **reusable design skill** and **reference implementation** for crafting high-end Moroccan brand websites. It was born from the [EL QAHWA](examples/EL-QAHWA.html) project — a luxury Moroccan coffee house brand.
+This repository contains a **reusable design skill** and **reference implementation** for crafting  websites. It was born from the [EL QAHWA](examples/EL-QAHWA.html) project — a luxury Moroccan coffee house brand.
 
 The skill captures everything needed to consistently produce designs that rival luxury hospitality brands: the color system, typography, animation patterns, decorative elements, and quality standards.
 
