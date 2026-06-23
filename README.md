@@ -1,6 +1,12 @@
-# Trend design skill  🏺
+# Trend design skill  
 
 > A premium design system and AI skill for creating ultra-luxury website design .
+
+# How to Use This Skill
+
+Go to your terminal AI agent and simply say:
+
+"Use this skill to design the website I request " your website project ". Scan the provided examples, analyze their visual structure, and apply the same design quality, style, layout, spacing, typography, and overall user experience to the new website."
 
 ## Overview
 
@@ -42,12 +48,6 @@ The `examples/EL-QAHWA.html` file is a **production-ready reference implementati
 - 📱 Fully responsive
 - ♿ Accessible (reduced motion, keyboard nav, focus indicators)
 
-## The Design Philosophy
-
-```
-Moroccan luxury is about warmth, not cold minimalism.
-It's about texture, pattern, light, and ritual.
-```
 
 **Core principles:**
 - No pure white or pure black — warm ivory and deep espresso instead
@@ -64,16 +64,6 @@ It's about texture, pattern, light, and ritual.
 3. Use the skill with your AI agent to generate new brand designs
 4. Adapt the patterns to your own project
 
-### Publishing to GitHub
-
-```bash
-# Create a new repository on GitHub, then:
-git init
-git add .
-git commit -m "Initial commit: Moroccan Premium Brand Design skill"
-git remote add origin https://github.com/your-username/moroccan-premium-brand-design.git
-git push -u origin main
-```
 
 ## Customization
 
