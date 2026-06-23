@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/license/soufiane77-eng/Trend-design-skill-" alt="License">
 </p>
 
-> A premium design system and AI skill for creating ultra-luxury Moroccan, North African, and Middle Eastern brand experiences.
+> A premium design system and AI skill for creating ultra-luxury design web sites .
 
 ---
 
@@ -91,10 +91,6 @@ It's about texture, pattern, light, and ritual.
 - Serif headlines (heritage) + sans-serif body (modernity)
 - Generous whitespace, asymmetric grids, overlapping elements
 - Grain texture and geometric patterns as subtle background atmosphere
-
-## Live Demo
-
-https://htmlpreview.github.io/?https://github.com/soufiane77-eng/Trend-design-skill-/blob/main/examples/EL-QAHWA.html
 
 ## Quick Start
 
